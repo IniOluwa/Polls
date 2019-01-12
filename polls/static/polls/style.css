@@ -1,0 +1,8 @@
+li a {
+  color: green;
+}
+
+body {
+  background: white url("images/Heroes.png") no-repeat;
+  background-size: cover;
+}
